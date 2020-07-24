@@ -1,7 +1,7 @@
 ### Hi!! 👋
 
 I have a passion for FPGAs. My interest in digital electronics pointed my career's direction towards these little but dense devices 😄
-With VHDL as my starting basic ability, I have been growing into a more passionate and embedded FPGA engineer!
+With VHDL as my starting basic ability, I have been growing into a more passionate and curious embedded FPGA engineer!
 
 <!--
 **timoteogb/timoteogb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
